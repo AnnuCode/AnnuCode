@@ -4,7 +4,7 @@ I'm Annu. I like to construct programs. Creating something valuable fills me wit
 
 Some of my contributions:
 - [LLVM/CIRCT](https://github.com/llvm/circt/pulls?q=is%3Apr+author%3AAnnuCode+is%3Amerged)
-- [LLVM](https://github.com/llvm/llvm-project/issues?q=is%3Apr+author%3AAnnuCode)
+- [LLVM](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3AAnnuCode+is%3Amerged)
 
 <!--
 **AnnuCode/AnnuCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
