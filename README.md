@@ -3,7 +3,7 @@
 I'm Annu. I like to construct programs. Creating something valuable fills me with joy, and I continually strive to hone my craft.
 
 Some of my contributions:
-- [LLVM/CIRCT](https://github.com/llvm/circt/pulls?q=is%3Apr+author%3AAnnuCode+is%3Aclosed)
+- [LLVM/CIRCT](https://github.com/llvm/circt/pulls?q=is%3Apr+author%3AAnnuCode+is%3Amerged)
 - [LLVM](https://github.com/llvm/llvm-project/issues?q=is%3Apr+author%3AAnnuCode)
 
 <!--
